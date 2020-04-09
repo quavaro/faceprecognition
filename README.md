@@ -1,10 +1,8 @@
-ml5 Face Tracker Scaffold
+Chili Pepper Faces
 ===========================
 
-This app is a very small scaffold to get you started using ml5's face tracker. It will work with webpack, but will require an internet connection to run since it loads ml5 from a CDN.
+My wife has been playing Red Hot Chili Peppers around the house here and there as we shelter in place. I don't love the Chili Peppers, but I do find myself with a line like "Ding dang dong dong ding dang dong dong ding dang" stuck in my head for hours, with a mix of annoyance and strange glee. Maybe I am losing my mind.
 
-The react + webpack portion has been copied by @starakaj for your enjoyment, and then React has been removed You can find the original at https://glitch.com/~starter-react.
+I recall how in 2006, the great Nick Cave stated, "I’m forever near a stereo saying, ‘What the fuck is this garbage?’ And the answer is always the Red Hot Chili Peppers.”
 
-The ml5 bit is copied from the example at https://ml5js.github.io/ml5-examples/p5js/FaceApi/FaceApi_Video_Landmarks_LocalModels/
-
-This project relates to video 2 of 5 in the [React Starter Kit](https://glitch.com/react-starter-kit) video series.
+I love Nick Cave, but I'm afraid that we can't let this insult stand. Open your mouth wide, raise your eyebrows, or purse your lips to hear some choice cuts and impress Nick Cave.
