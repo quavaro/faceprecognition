@@ -9,11 +9,13 @@
     "watch": "NODE_ENV=development node server.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "jsx-loader": "^0.13.2",
     "p5": "^1.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "startaudiocontext": "^1.2.1",
+    "tone": "^13.8.25",
     "webpack": "^4.30.0",
     "webpack-cli": "^3.3.0",
     "webpack-dev-middleware": "^3.7.2",

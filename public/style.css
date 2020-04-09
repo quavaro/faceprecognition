@@ -1,3 +1,17 @@
 body {
-    font-family: Futura;
+    font-family: "Lucida Sans", Monaco, monospace;
+}
+#intro {
+    max-width: 900px;
+    font-size: 16px;
+}
+audio {
+    display: none;
+}
+#nick {
+    display: none;
+    max-width: 400px;
+}
+#nick img {
+    width: 100%;
 }
